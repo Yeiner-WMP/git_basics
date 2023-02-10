@@ -56,4 +56,7 @@ Let's learn about the most common Git commands that we'll be using. The basic co
 -   `git log` show a detailed list of commits for the current branch.
 
 <div style="page-break-after: always"></div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 172d0efa315d4af88d90a987e217484f467ff17e
